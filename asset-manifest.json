@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beatsnip/static/css/main.97d22f5a.css",
+    "main.js": "/beatsnip/static/js/main.1ff74ec5.js",
+    "static/js/787.9c000c73.chunk.js": "/beatsnip/static/js/787.9c000c73.chunk.js",
+    "static/media/playlist_image.png": "/beatsnip/static/media/playlist_image.88498c8d491ff465900a.png",
+    "index.html": "/beatsnip/index.html",
+    "main.97d22f5a.css.map": "/beatsnip/static/css/main.97d22f5a.css.map",
+    "main.1ff74ec5.js.map": "/beatsnip/static/js/main.1ff74ec5.js.map",
+    "787.9c000c73.chunk.js.map": "/beatsnip/static/js/787.9c000c73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d22f5a.css",
+    "static/js/main.1ff74ec5.js"
+  ]
+}
