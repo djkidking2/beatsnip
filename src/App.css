@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #000; /* black background */
+  color: #fff; /* white text */
+}
+
+/* styles.css */
+
+/* Import the Vampire Wars font using @import (if not already imported) */
+@import url('https://fonts.googleapis.com/css2?family=Vampire+Wars&display=swap');
+
+/* Apply Vampire Wars font to Navbar.Brand */
+.navbar-brand {
+  font-family: 'Vampire Wars', cursive; /* Change the font-family to 'Vampire Wars' */
+}
